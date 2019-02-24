@@ -1,3 +1,4 @@
+# Written by: Katie Kwak, Robin Chang, Stephen Buckley, Dustin Cai 
 import os
 import sys
 import threading
